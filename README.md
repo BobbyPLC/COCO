@@ -1,2 +1,2 @@
 # COCO
-Controller Controller - Automation for Automation
+Controller Controller - Automation for Industrial Automation
