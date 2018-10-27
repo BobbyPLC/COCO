@@ -22,4 +22,4 @@ Schneider, Allen Bradley, and Siemens PLCs? No problem! COCO aims to be a cross-
 
 ::DEVELOPMENT::
 
-COCO is brand new, and it doesn't work!! Want to be a part of the biggest thing in automation? Join up and help out! NOOBIES WELCOME!
+COCO is brand new, and it doesn't work (YET)!! Want to be a part of the biggest thing in automation? Join up and help out! NOOBIES WELCOME!
